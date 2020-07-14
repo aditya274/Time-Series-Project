@@ -8,16 +8,17 @@
 **Total unique commodities**: 204  
 **Total unique APMCs**: 349
 
-## **Some of the top APMCs & Commodities**
-| Top APMCs||Top Commodities |
-|----------||----------------|
-Mumbai||Gram
-Pune||Wheat(Husked)
-Nagpur||Soybean
-Barshi||Sorgum(Jawar)
-Jalgaon||Pigeon Pea (Tur)
-Solapur||Maize
-Kamthi||Green Gram
+## **Some of the top APMCs & Commodities**  
+
+| Top APMCs|Top Commodities |
+|----------|----------------|
+|Mumbai|Gram|
+|Pune|Wheat(Husked)|
+|Nagpur|Soybean|
+|Barshi|Sorgum(Jawar)|
+|Jalgaon|Pigeon Pea (Tur)|
+|Solapur|Maize|
+|Kamthi|Green Gram|
 
 ## **Plotting `modal_price`vs `date`**
 ![Modal Price v/s Date](images/modal_price_v_date.png)
