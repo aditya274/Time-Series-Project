@@ -77,3 +77,9 @@ Here are some of the final best-fit predictions for the clusters.
 |![](images/final_predictions/7.png)|![](images/final_predictions/8.png)|
 |![](images/final_predictions/9.png)|![](images/final_predictions/10.png)|
 |![](images/final_predictions/11.png)|![](images/final_predictions/12.png)|
+
+
+This project was jointly done by the following team members:  
+
+![Aditya Singh](https://github.com/aditya274/)  
+![Saksham Gupta](https://github.com/thesakshamgupta/)
